@@ -9,7 +9,7 @@ _undocumented_
 See sercrethub.io for usage documentation. Request access from nchenewe@thoughtworks.com
 
 Recent layout.
-
+```
 di/
 ├── platform/
 │   └── teams/
@@ -63,9 +63,10 @@ di/
     │   └── api-token
     └── terraform-cloud/
         └── team-api-token
+```
 
-svc = (S)er(V)ice account (C)redential
-dps-1 = credentials in the DPS-1 AWS account
-dps-2 = credentials in the DPS-2 AWS account
-shub-sa = (S)ecret(HUB) (S)ervice (A)ccounts
-apps = api or application specific secrets
+svc = (S)er(V)ice account (C)redential  
+dps-1 = credentials in the DPS-1 AWS account  
+dps-2 = credentials in the DPS-2 AWS account  
+shub-sa = (S)ecret(HUB) (S)ervice (A)ccounts  
+apps = api or application specific secrets  
