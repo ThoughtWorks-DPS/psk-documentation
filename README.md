@@ -9,4 +9,5 @@ Documentation and run-books for DPS lab environments
 1. [basic identity](./doc/identity.md)
 1. [vpc](https://github.com/ThoughtWorks-DPS/lab-platform-vpc)
 1. [EKS](https://github.com/ThoughtWorks-DPS/lab-platform-eks)
+1. [service mesh](https://github.com/ThoughtWorks-DPS/lab-platform-servicemesh)
 
