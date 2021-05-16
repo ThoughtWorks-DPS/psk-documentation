@@ -1,6 +1,6 @@
 <div align="center">
 	<p>
-		<img alt="CircleCI Logo" src="https://github.com/ThoughtWorks-DPS/lab-documentation/blob/master/doc/img/dps-lab.png?sanitize=true" width="75" />
+		<img alt="CircleCI Logo" src="https://github.com/ThoughtWorks-DPS/lab-documentation/blob/master/doc/img/dps-lab.png?sanitize=true" width="95" />
 	</p>
   <h1>ThoughtWorks DPS Lab</h1>
   <h3>A Digital Platform Strategy reference lab</h3>
