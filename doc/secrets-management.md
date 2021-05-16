@@ -1,7 +1,7 @@
 <div align="center">
-	<p>
-		<img alt="CircleCI Logo" src="https://github.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/dps-lab.png?sanitize=true" width="75" />
-	</p>
+  <p>
+    <img alt="CircleCI Logo" src="https://github.com/ThoughtWorks-DPS/lab-documentation/blob/master/doc/img/dps-lab.png?sanitize=true" width="75" />
+  </p>
   <h3>ThoughtWorks DPS Lab</h3>
   <h5>1. secrets management</h5>
 </div>
