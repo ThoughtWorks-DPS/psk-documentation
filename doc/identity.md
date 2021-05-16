@@ -1,11 +1,14 @@
-# twdps lab - identity
+<div align="center">
+	<p>
+		<img alt="CircleCI Logo" src="https://github.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/dps-lab.png?sanitize=true" width="75" />
+	</p>
+  <h3>ThoughtWorks DPS Lab</h3>
+  <h5>4. identity</h5>
+</div>
+<br />
 
-## auth0.com
+DPS lab environments and working code examples make use of the following identity provider services. The primary services are highlighted.
 
-There are twdpsio and twdpsio-dev auth0 domains. You will need invite to administrate, but uses github identity access.  
+- [**auth0**](https:/auth0.com)
+- [okta](https://okta.com)
 
-## aws integration
-
-The two DPS AWS accounts have identity-provider integration with TW Okta - request access from TechOps.  
-
-For lab resource, see [lab-iam-profiles](https://github.com/ThoughtWorks-DPS/lab-iam-profiles) for details about setting up credentials and assuming roles.  
