@@ -14,7 +14,7 @@ Documentation and guides for twdps working examples and reusable code.
 1. [secrets management](./doc/secrets-management.md)
 1. [terraform state](./doc/terraform-state.md)
 1. [pipelines, artifact stores, and other saas tools](./doc/saas.md)
-1. [basic identity](./doc/identity.md)
+1. [identity and auth](./doc/identity.md)
 
 ## pipelines
 

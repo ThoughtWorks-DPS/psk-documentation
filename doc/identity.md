@@ -7,7 +7,7 @@
 </div>
 <br />
 
-DPS lab environments and working code examples make use of the following identity provider services. The primary services are highlighted.
+DPS lab environments and working code examples make use of the identity provider services for oauth2 workflows. The primary services are highlighted.
 
 - [**auth0**](https:/auth0.com)
 - [okta](https://okta.com)
