@@ -23,9 +23,9 @@ Documentation and guides for twdps working examples and reusable code.
 
 #### 3. Code  
 
-3.1 [Distributed Compute Platforms](./doc/differentiators.md)  
-3.2 [starterkits](./doc/differentiators.md)  
-3.3 [policy as code](./doc/differentiators.md)  
+3.1 [Distributed Compute Platforms](./doc/platforms.md)  
+3.2 [starterkits](./doc/starterkits.md)  
+3.3 [policy as code](./doc/policy_as_code.md)  
 
 ##### Lab Maintainers  
 
