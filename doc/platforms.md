@@ -7,7 +7,7 @@
 </div>
 <br />
 
-![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=flat)  
+![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)   
 
 #### 3.1.1 Amazon Web Services
 

@@ -6,7 +6,8 @@
   <h5>2.1 secrets management</h5>
 </div>
 <br />
-![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=flat)  
+
+![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
 You will see various secrets-management systems or tools used among the lab environments and working-code examples. Refer to the following documentation sources for detailed information on any particular use case.  
 

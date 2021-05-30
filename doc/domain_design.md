@@ -7,7 +7,7 @@
 </div>
 <br />
 
-![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=flat)  
+![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
 All the lab environments and code examples are built with a central vision of use within an organization that intends to BE agile, not just engage in agile ceremonies. At the core of this is execution through small, integrated autonomous multidisciplinary teams.   
 
