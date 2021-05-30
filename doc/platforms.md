@@ -6,6 +6,7 @@
   <h5>3.1 Distributed Compute Platforms</h5>
 </div>
 <br />
+
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=flat)  
 
 #### 3.1.1 Amazon Web Services

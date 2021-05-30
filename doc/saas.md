@@ -6,6 +6,7 @@
   <h5>2.3 pipelines and artifact stores</h5>
 </div>
 <br />
+
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=flat)  
 
 DPS lab environments and working code examples make use of the following pipeline tools and artifacts stores. The primary services are highlighted.

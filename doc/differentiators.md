@@ -6,6 +6,7 @@
   <h5>1.1 differentiators</h5>
 </div>
 <br />
+
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=flat)  
 
 DPS labs makes extensive use of SaaS for development, maintenance, and operations. The acceleration and cost advantage of adopting such capabilities rather than either self-creating or self-managing is at the heart of technology choices made by Disruptors.  

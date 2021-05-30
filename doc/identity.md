@@ -6,6 +6,7 @@
   <h5>2.4 identity</h5>
 </div>
 <br />
+
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=flat)  
 
 DPS lab environments and working code examples make use of identity provider services for oauth2 workflows. The primary services are highlighted.
