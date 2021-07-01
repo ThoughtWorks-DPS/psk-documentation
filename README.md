@@ -1,9 +1,9 @@
 <div align="center">
 	<p>
-		<img alt="CircleCI Logo" src="https://github.com/ThoughtWorks-DPS/lab-documentation/blob/master/doc/img/dps-lab.png?sanitize=true" width="95" />
+		<img alt="Thoughtworks Logo" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/thoughtworks_flamingo_wave.png?sanitize=true" width=400 />
+    <br />
+		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/dps_lab_title.png?sanitize=true" />
 	</p>
-  <h1>ThoughtWorks DPS Lab</h1>
-  <h3>Digital Platform Strategy reference lab</h3>
 </div>
 <br />
 
