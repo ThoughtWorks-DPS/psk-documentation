@@ -19,3 +19,4 @@
   * [lab-platform-hosted-zones](https://github.com/ThoughtWorks-DPS/lab-platform-hosted-zones)
   * [lab-platform-eks](https://github.com/ThoughtWorks-DPS/lab-platform-eks)
   * [lab-platform-servicemesh](https://github.com/ThoughtWorks-DPS/lab-platform-servicemesh)
+  * [lab-platform-simple-namespaces](https://github.com/ThoughtWorks-DPS/lab-platform-simple-namespaces)
