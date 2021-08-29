@@ -18,13 +18,28 @@ DPS lab environments and working code examples make use of the following pipelin
 - [github actions](https://github.com/features/actions)
 - [buildkite](https://buildkite.com) (_pending_)
 
+#### circleci executors and orbs
+
+_executors_  
+[circleci-remote-docker](https://github.com/ThoughtWorks-DPS/circleci-remote-docker)  
+[circleci-base-image](https://github.com/ThoughtWorks-DPS/circleci-base-iamge)  
+[circleci-executor-builder](https://github.com/ThoughtWorks-DPS/circleci-executor-builder)  
+[circleci-infra-aws](https://github.com/ThoughtWorks-DPS/circleci-infra-aws)  
+[circleci-kube-admin]() _pending_  
+[circleci-kube-pipelines]() _pending_  
+
+_orbs_  
+[twdps/orb-tools](https://github.com/ThoughtWorks-DPS/orb-tools)  
+[twdps/executor-tools](https://github.com/ThoughtWorks-DPS/orb-executor-tools)
+
 ### artifact stores
 
 - [**dockerhub**](https://hub.docker.com)
 - [github packages](https://github.com/features/packages)
-- aws elastic container registry (_pending_)
+- aws elastic container registry  
 
-## code analysis
+### code analysis
 
 - [**codeclimate**](https://codeclimate.com)
+- [codacy](https://codacy.com)
 - [**snyk**](https://snyk.io)
