@@ -30,12 +30,13 @@ _executors_
 
 _orbs_  
 [twdps/orb-tools](https://github.com/ThoughtWorks-DPS/orb-tools)  
-[twdps/executor-tools](https://github.com/ThoughtWorks-DPS/orb-executor-tools)
+[twdps/executor-tools](https://github.com/ThoughtWorks-DPS/orb-executor-tools)  
+[twdps/terraform](https://github.com/ThoughtWorks-DPS/orb-terraform)  
 
 ### artifact stores
 
-- [**dockerhub**](https://hub.docker.com)
-- [github packages](https://github.com/features/packages)
+- [**dockerhub**](https://hub.docker.com)  
+- [github packages](https://github.com/features/packages)  
 - aws elastic container registry  
 
 ### code analysis
