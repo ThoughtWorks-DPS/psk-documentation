@@ -25,13 +25,13 @@ _executors_
 [circleci-base-image](https://github.com/ThoughtWorks-DPS/circleci-base-iamge)  
 [circleci-executor-builder](https://github.com/ThoughtWorks-DPS/circleci-executor-builder)  
 [circleci-infra-aws](https://github.com/ThoughtWorks-DPS/circleci-infra-aws)  
-[circleci-kube-admin]() _pending_  
-[circleci-kube-pipelines]() _pending_  
+[circleci-kube-ops](https://github.com/ThoughtWorks-DPS/circleci-kube-ops)  
 
 _orbs_  
 [twdps/orb-tools](https://github.com/ThoughtWorks-DPS/orb-tools)  
 [twdps/executor-tools](https://github.com/ThoughtWorks-DPS/orb-executor-tools)  
 [twdps/terraform](https://github.com/ThoughtWorks-DPS/orb-terraform)  
+[twdps/kube-ops](https://github.com/ThoughtWorks-DPS/orb-kube-ops)  
 
 ### artifact stores
 
