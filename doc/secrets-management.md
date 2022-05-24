@@ -14,7 +14,7 @@ You will see various secrets-management systems or tools used among the lab envi
 
 Most examples make use of `secrethub`. Nearly every facet of this product envisions use in the context of software delivery, and focuses on that primary customer.  
 
-- [1password.com]([https://secrethub.io](https://1password.com/products/secrets/))
+- [1password](https://1password.com/products/secrets/))
 - [chamber](https://github.com/segmentio/chamber) (aws parameter store)
 - [hashi vault](https://www.vaultproject.io)
 
