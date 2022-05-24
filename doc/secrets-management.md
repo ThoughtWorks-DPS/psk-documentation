@@ -14,7 +14,7 @@ You will see various secrets-management systems or tools used among the lab envi
 
 Most examples make use of `secrethub`. Nearly every facet of this product envisions use in the context of software delivery, and focuses on that primary customer.  
 
-- [secrethub.io](https://secrethub.io)
+- [1password.com]([https://secrethub.io](https://1password.com/products/secrets/))
 - [chamber](https://github.com/segmentio/chamber) (aws parameter store)
 - [hashi vault](https://www.vaultproject.io)
 
@@ -30,10 +30,10 @@ The only variables defined within the pipeline tool, and thus available at the s
 
 By doing so, pipelines automatically benefit from any credential rotation pattern or events related to environment config. And additionally, the complexity for automating the credentials of the pipelines themselves is continuously constrained.  
 
-_example with secrethub and CircleCI_
+_example with 1password and CircleCI_
 
 A circleci `context` is defined that coincides with your github team. All your circleci pipelines reference the context.
 
-The only CircleCI ENV var defined within the context is the SECRETHUB_CREDENTIAL for your team's secrethub-sa.  
+The only CircleCI ENV var defined within the context are the OP_CONNECT_URL and OP_CONNECT_TOKEN for the lab 1password vault.  
 
 Now, at the start of any pipeline run, you can inject the credentials for all other pipeline activities or uses of secure config as needed.  
