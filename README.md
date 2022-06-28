@@ -7,7 +7,7 @@
 </div>
 <br />
 
-Documentation and guides for twdps working examples and reusable code.  
+Documentation and guides for the twdps labs oss resources.  
 
 #### 1. First
 
