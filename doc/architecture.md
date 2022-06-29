@@ -10,16 +10,11 @@
 
 #### 1.4.1 Distributed Compute Foundations
 
-![bootstrap](doc/img/distributed_compute_foundation.png)  
-
-<div align="center">
-		<img alt="dist-compute-foundation" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/img/distributed_compute_foundation.png?sanitize=true" width=350/>
-</div>
+* [Distributed compute foundation](doc/img/distributed_compute_foundation.png)
+* [Initial build pipelines diagram](doc/img/platform_build_diagram.png)
 
 #### 1.4.2 Delivery Infrastructure (or Engineering) Platform domain boundaries
 
-##### 1.4.2.1 MVP
-
-##### 1.4.2.1 Initial Multi-team
-
-##### 1.4.2.1 Scaled
+**1.4.2.1 [MVP](doc/mvp.png)**
+**1.4.2.1 Initial Multi-team**
+**1.4.2.1 Scaled**
