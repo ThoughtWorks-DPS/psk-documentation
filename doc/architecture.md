@@ -10,7 +10,7 @@
 
 #### 1.4.1 Distributed Compute Foundations
 
-![bootstrap](./doc/img/distributed_compute_foundation.png)  
+![bootstrap](doc/img/distributed_compute_foundation.png)  
 
 <div align="center">
 		<img alt="dist-compute-foundation" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/img/distributed_compute_foundation.png?sanitize=true" width=350/>
