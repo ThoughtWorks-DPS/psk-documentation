@@ -10,8 +10,8 @@
 
 #### 1.4.1 Distributed Compute Foundations
 
-* [Distributed compute foundation](doc/img/distributed_compute_foundation.png)
-* [Initial build pipelines diagram](doc/img/platform_build_diagram.png)
+* [Distributed compute foundation](img/distributed_compute_foundation.png)
+* [Initial build pipelines diagram](img/platform_build_diagram.png)
 
 #### 1.4.2 Delivery Infrastructure (or Engineering) Platform domain boundaries
 
