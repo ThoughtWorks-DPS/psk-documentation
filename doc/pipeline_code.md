@@ -22,6 +22,8 @@ _orbs_
 [twdps/executor-tools](https://github.com/ThoughtWorks-DPS/orb-executor-tools)  
 [twdps/terraform](https://github.com/ThoughtWorks-DPS/orb-terraform)  
 [twdps/kube-ops](https://github.com/ThoughtWorks-DPS/orb-kube-ops)  
+[twdps/onepassword](https://github.com/ThoughtWorks-DPS/orb-onepassword)  
+[twdps/pipeline-events](https://github.com/ThoughtWorks-DPS/orb-pipeline-events)  
 
 #### 2.5.2 github runners and actions  
 
