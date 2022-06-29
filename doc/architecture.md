@@ -10,6 +10,8 @@
 
 #### 1.4.1 Distributed Compute Foundations
 
+![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
+
 <div align="center">
 		<img alt="dist-compute-foundation" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/img/distributed_compute_foundation.png?sanitize=true" width=350/>
 </div>
