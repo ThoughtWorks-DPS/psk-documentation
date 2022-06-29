@@ -4,7 +4,7 @@
     <br />
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/dps_lab_title.png?sanitize=true" width=350/>
 	</p>
-  <h3>3.1 Distributed Compute Platforms</h3>
+  <h3>2.1 Distributed Compute foundations</h3>
 </div>
 <br />
 
@@ -14,11 +14,10 @@
 
 * Architectural overview
 * build pipelines
-  * [lab-iam-profiles](https://github.com/ThoughtWorks-DPS/lab-iam-profiles)
-  * [lab-platform-vpc](https://github.com/ThoughtWorks-DPS/lab-platform-vpc)
-  * [lab-platform-hosted-zones](https://github.com/ThoughtWorks-DPS/lab-platform-hosted-zones)
-  * [lab-platform-eks-base](https://github.com/ThoughtWorks-DPS/lab-platform-eks-base)
-  	* [lab-platform-eks-ghactions](https://github.com/ThoughtWorks-DPS/lab-platform-eks-ghactions)
-  * [lab-platform-eks-core-services](https://github.com/ThoughtWorks-DPS/lab-platform-eks-core-services)
-  * [lab-platform-servicemesh](https://github.com/ThoughtWorks-DPS/lab-platform-servicemesh)
-  * [lab-platform-simple-namespaces](https://github.com/ThoughtWorks-DPS/lab-platform-simple-namespaces)
+  * [lab-iam-profiles](https://github.com/ThoughtWorks-DPS/lab-iam-profiles)  
+  * [lab-platform-vpc](https://github.com/ThoughtWorks-DPS/lab-platform-vpc)  
+  * [lab-platform-hosted-zones](https://github.com/ThoughtWorks-DPS/lab-platform-hosted-zones)  
+  * [lab-platform-eks-base](https://github.com/ThoughtWorks-DPS/lab-platform-eks-base)  
+  	* [lab-platform-eks-ghactions](https://github.com/ThoughtWorks-DPS/lab-platform-eks-ghactions)  
+  * [lab-platform-eks-core-services](https://github.com/ThoughtWorks-DPS/lab-platform-eks-core-services)  
+  * [lab-platform-servicemesh](https://github.com/ThoughtWorks-DPS/lab-platform-servicemesh)  
