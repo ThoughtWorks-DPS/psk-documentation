@@ -19,7 +19,7 @@
 **1.4.2.1 [MVP](doc/mvp.png)**
 
 <div align="center">
-		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/mvp.png?sanitize=true" width=850/>
+		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/mvp.png?sanitize=true" width=1150/>
 </div>
 
 **1.4.2.1 Initial Multi-team**
