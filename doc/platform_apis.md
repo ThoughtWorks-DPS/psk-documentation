@@ -4,8 +4,6 @@
     <br />
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/dps_lab_title.png?sanitize=true" width=350/>
 	</p>
-  <h3>1.4 Architecture</h3>
+  <h3>2.2 Platform APIs</h3>
 </div>
 <br />
-
-(_pending_)

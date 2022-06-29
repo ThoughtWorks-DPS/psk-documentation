@@ -4,8 +4,10 @@
     <br />
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/dps_lab_title.png?sanitize=true" width=350/>
 	</p>
-  <h3>3.3 Policy as Code</h3>
+  <h3>2.4 Policy as Code</h3>
 </div>
 <br />
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
+
+(_pending_)

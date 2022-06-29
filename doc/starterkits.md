@@ -4,7 +4,7 @@
     <br />
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/dps_lab_title.png?sanitize=true" width=350/>
 	</p>
-  <h3>2.3 Starter Kits</h3>
+  <h3>2.3 StarterKits</h3>
 </div>
 <br />
 

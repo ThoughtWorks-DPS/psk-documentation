@@ -10,7 +10,7 @@
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)   
 
-#### 3.1.1 Amazon Web Services
+#### 2.1.1 Amazon Web Services
 
 * Architectural overview
 * build pipelines
@@ -21,3 +21,11 @@
   	* [lab-platform-eks-ghactions](https://github.com/ThoughtWorks-DPS/lab-platform-eks-ghactions)  
   * [lab-platform-eks-core-services](https://github.com/ThoughtWorks-DPS/lab-platform-eks-core-services)  
   * [lab-platform-servicemesh](https://github.com/ThoughtWorks-DPS/lab-platform-servicemesh)  
+
+#### 2.1.2 Google Cloud Platform
+
+(_pending_)
+
+#### 2.1.3 Microsoft Azure Cloud Computing Services
+
+(_pending_)
