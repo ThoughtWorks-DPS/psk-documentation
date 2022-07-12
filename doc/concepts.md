@@ -2,7 +2,7 @@
 	<p>
 		<img alt="Thoughtworks Logo" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/thoughtworks_flamingo_wave.png?sanitize=true" width=200 />
     <br />
-		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/dps_lab_title.png?sanitize=true" width=350/>
+		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/EMPCPlatformStarterKitsImage.png?sanitize=true" width=350/>
 	</p>
   <h3>1.1 Concepts</h3>
 </div>
@@ -12,7 +12,9 @@
 
 #### 1.1.1 Modern Delivery Infrastructure Platforms (Engineering Platforms)
 
-THe majority of the twdps labs resources are related to building modern Delivery Infrastructure platforms, consumed by internal customers, providing an independentaly useable, product experience.  
+The majority of the EMPC NA oss lab resources are related to building modern Delivery Infrastructure platforms, consumed by internal customers, providing an independentaly useable, product experience.  
+
+We refer to these resource collectively as Platform Starter Kits.
 
 > A Delivery Infrastructure Platform is “a foundation of self-service APIs, tools, services, knowledge and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced coordination.” - Evan Bottcher
 

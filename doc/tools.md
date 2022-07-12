@@ -2,7 +2,7 @@
 	<p>
 		<img alt="Thoughtworks Logo" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/thoughtworks_flamingo_wave.png?sanitize=true" width=200 />
     <br />
-		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/dps_lab_title.png?sanitize=true" width=350/>
+		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/EMPCPlatformStarterKitsImage.png?sanitize=true" width=350/>
 	</p>
   <h3>1.3 A note on tools</h3>
 </div>
@@ -20,8 +20,7 @@ Suitability to IaC lifecycle and a domain-bounded implementation is a prerequisi
 
 ### 1.3.1 General tool selection criteria
 
-
-* Use small, focused tools that are exceptional in their implementation and interoperate well, over monolithic solutions. (One measure of exceptional being an architecture designed clearly to be user-centric, and a roadmap based on real feedback.)  
+* Use small, focused tools that are exceptional in their implementation and interoperate well, over monolithic solutions. (One measure of exceptional being, an architecture designed clearly to be user-centric, and a roadmap based on real feedback.)  
 
 * Use domain bounded tools and frameworks that can be implemented to enable low-friction changes to higher value alternatives as they become available. (domain-bounded implementation in this case refers to the degree of difficulty in changing the tool when a higher value product comes along. Implement in such a way that the cost to change is relatively low and not a blocker to adoption of alternative technologies.)  
 
@@ -32,7 +31,7 @@ Suitability to IaC lifecycle and a domain-bounded implementation is a prerequisi
 * The API should have all the functionality that the application provides.  
 * The API should be accessible by more than one language and platform.  
 * Coding around deficiencies in the product should be easier than recreating the product.  
-
+* 
 * All data stored in the product should be readable and writeable by other applications.  
 * For products that have authentication requirements, they should be able to authenticate and authorize from external, configurable sources. (In particular, they must integrate into the general AuthN/Z scheme of the overall platform, either natively or through custom integration.)
 
@@ -66,7 +65,7 @@ Most examples make use of `1password`.
 
 While pipeline tools are a critical and necessary part of any software-defined system, inappropriate pipeline architectural choices can result in overly complex and brittle systems.  
 
-Environment variables are a key example. While every pipeline orchestration tool provides a built-in mechanism for defining and managing pipeline environment variables, even moderate use of such systems creates a high-friction management lifecycle and increased security risk.  
+Environment variables are a key example. While every pipeline orchestration tool provides a built-in mechanism for defining and managing pipeline environment variables, even moderate use of such a feature creates a high-friction management lifecycle and increased security risk.  
 
 The only variables defined within the pipeline tool, and thus available at the start of the triggered pipeline, should be the credentials of the pipeline service account. From this starting identity, the pipeline will then interact with the secrets-store or other env-key-store to bring in all other needed environment settings.  
 
@@ -74,7 +73,7 @@ By doing so, pipelines automatically benefit from any credential rotation patter
 
 _example with 1password and CircleCI_
 
-A circleci `context` is defined that coincides with your github team. All your circleci pipelines reference the context.
+A circleci `context` is defined that coincides with a github team. All circleci pipelines reference the context.
 
 The only CircleCI ENV var defined within the context are the OP_CONNECT_URL and OP_CONNECT_TOKEN for the lab 1password vault.  
 
@@ -89,8 +88,9 @@ You will see examples using various well-suited pipeline tools, though chiefly i
 
 **build-artifact stores**
 
+
+- [**github packages**](https://github.com/features/packages)  
 - [**dockerhub**](https://hub.docker.com)  
-- [github packages](https://github.com/features/packages)  
 - aws elastic container registry  
 
 **code analysis reporting**

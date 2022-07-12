@@ -19,8 +19,8 @@ Documentation and guides for the EMPC NA labs oss resources.
 #### 2. Code Examples 
 
 2.1 [Distributed Compute foundations](./doc/platforms.md)  
-2.2 [Platform APIs](./doc/platform_apis.md) (_pending_)    
-2.3 [StarterKits](./doc/starterkits.md) (_pending_)  
+2.2 [Platform Experience APIs](./doc/platform_apis.md) (_pending_)    
+2.3 [API StarterKits](./doc/starterkits.md) (_pending_)  
 2.4 [policy as code](./doc/policy_as_code.md) (_pending_)  
 2.5 [pipeline related](./doc/pipeline_code.md)
 
@@ -30,4 +30,4 @@ Documentation and guides for the EMPC NA labs oss resources.
 
 ##### Lab Maintainers  
 
-Internal developer guides and run-books for DPS lab environments are [here](https://github.com/ThoughtWorks-DPS/documentation-internal).      
+Internal developer guides and run-books for EMPC Platform Starter Kit lab environments are [here](https://github.com/ThoughtWorks-DPS/documentation-internal).      

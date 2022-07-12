@@ -2,7 +2,7 @@
 	<p>
 		<img alt="Thoughtworks Logo" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/thoughtworks_flamingo_wave.png?sanitize=true" width=200 />
     <br />
-		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/dps_lab_title.png?sanitize=true" width=350/>
+		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/EMPCPlatformStarterKitsImage.png?sanitize=true" width=350/>
 	</p>
   <h3>2.1 Distributed Compute foundations</h3>
 </div>
@@ -12,7 +12,6 @@
 
 #### 2.1.1 Amazon Web Services
 
-* Architectural overview
 * build pipelines
   * [lab-iam-profiles](https://github.com/ThoughtWorks-DPS/lab-iam-profiles)  
   * [lab-platform-vpc](https://github.com/ThoughtWorks-DPS/lab-platform-vpc)  
