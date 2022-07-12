@@ -7,7 +7,7 @@
 </div>
 <br />
 
-Documentation and guides for the twdps labs oss resources.  
+Documentation and guides for the EMPC NA labs oss resources.  
 
 #### 1. Getting Started   
 
