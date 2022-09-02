@@ -19,10 +19,9 @@ Documentation and guides for the EMPC NA labs oss resources.
 #### 2. Code Examples 
 
 2.1 [Distributed Compute foundations](./doc/platforms.md)  
-2.2 [Platform Experience APIs](./doc/platform_apis.md) (_pending_)    
-2.3 [API StarterKits](./doc/starterkits.md) (_pending_)  
-2.4 [policy as code](./doc/policy_as_code.md) (_pending_)  
-2.5 [pipeline related](./doc/pipeline_code.md)
+2.2 [Platform APIs](./doc/platform_apis.md) (_pending_)  
+2.3 [policy as code](./doc/policy_as_code.md) (_pending_)  
+2.4 [pipeline related](./doc/pipeline_code.md)
 
 #### 3. Demo Customers  
 
