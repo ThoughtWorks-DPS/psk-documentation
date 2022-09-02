@@ -4,13 +4,13 @@
     <br />
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/EMPCPlatformStarterKitsImage.png?sanitize=true" width=350/>
 	</p>
-  <h3>2.5 Pipeline related</h3>
+  <h3>2.4 Pipeline related</h3>
 </div>
 <br />
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
-#### 2.5.1 circleci executors and orbs
+#### 2.4.1 circleci executors and orbs
 
 _executors_  
 [circleci-remote-docker](https://github.com/ThoughtWorks-DPS/circleci-remote-docker)  
@@ -26,8 +26,9 @@ _orbs_
 [twdps/kube-ops](https://github.com/ThoughtWorks-DPS/orb-kube-ops)  
 [twdps/onepassword](https://github.com/ThoughtWorks-DPS/orb-onepassword)  
 [twdps/pipeline-events](https://github.com/ThoughtWorks-DPS/orb-pipeline-events)  
+[twdps/python-api](https://github.com/ThoughtWorks-DPS/orb-python-api) 
 
-#### 2.5.2 github runners and actions  
+#### 2.4.2 github runners and actions  
 
 _actions_  
 [terraform-action](https://github.com/ThoughtWorks-DPS/terraform-action)  
