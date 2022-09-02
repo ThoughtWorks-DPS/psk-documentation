@@ -18,6 +18,8 @@ We refer to these resource collectively as Platform Starter Kits.
 
 > A Delivery Infrastructure Platform is “a foundation of self-service APIs, tools, services, knowledge and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced coordination.” - Evan Bottcher
 
+[API Style Guide](https://github.com/ThoughtWorks-DPS/dps-api-styleguide)  
+
 #### 1.1.1 Product Experience
 
 _Product Experience_ refers to a self-serve, consumer experience quality in consuming platform capabilities. The goal is remove all the lead-time planning and engineering friction normally associated with deploying and managing software.  
