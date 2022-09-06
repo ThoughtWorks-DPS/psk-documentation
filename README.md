@@ -21,7 +21,8 @@ Documentation and guides for the EMPC NA labs oss resources.
 2.1 [Distributed Compute foundations](./doc/platforms.md)  
 2.2 [Platform APIs](./doc/platform_apis.md) (_pending_)  
 2.3 [policy as code](./doc/policy_as_code.md) (_pending_)  
-2.4 [pipeline related](./doc/pipeline_code.md)
+2.4 [pipeline related](./doc/pipeline_code.md)  
+2.5 [kubernetes deployment related](./doc/k8s_deployments.md)
 
 #### 3. Demo Customers  
 
