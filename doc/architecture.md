@@ -10,7 +10,12 @@
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
-#### 1.4.1 Distributed Compute Foundations
+
+#### 1.4.1 Architectural Decision Record
+
+The general, ongoing list of ADRs is found [here](/doc/architectural_decisions/). Individual repositories may also contain their own Decision Records.
+
+#### 1.4.2 Distributed Compute Foundations
 
 <div align="center">
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/distributed_compute_foundation.png?sanitize=true" width=1150/>
@@ -22,17 +27,13 @@
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/platform_build_diagram.png?sanitize=true" width=1150/>
 </div>
 
-#### 1.4.2 Delivery Infrastructure (or Engineering) Platform domain boundaries
+#### 1.4.3 Delivery Infrastructure (or Engineering) Platform domain boundaries
 
-**1.4.2.1 MVP**
+**1.4.3.1 MVP**
 
 <div align="center">
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/mvp.png?sanitize=true" width=1150/>
 </div>
 
-**1.4.2.1 Initial Multi-team**  
-**1.4.2.1 Scaled**
-
-#### 1.4.3 Architectural Decision Record
-
-The general, ongoing list of ADRs is found [here](/doc/architectural_decisions/). Individual repositories may also contain their own Decision Records.
+**1.4.3.1 Initial Multi-team**  
+**1.4.3.1 Scaled**
