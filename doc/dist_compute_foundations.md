@@ -4,7 +4,7 @@
     <br />
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/EMPCPlatformStarterKitsImage.png?sanitize=true" width=350/>
 	</p>
-  <h3>2.1 Distributed Compute foundations</h3>
+  <h3>2.1 Distributed Compute Foundations</h3>
 </div>
 <br />
 

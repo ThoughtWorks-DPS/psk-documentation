@@ -4,15 +4,15 @@
     <br />
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/EMPCPlatformStarterKitsImage.png?sanitize=true" width=350/>
 	</p>
-  <h3>1.3 A note on tools</h3>
+  <h3>1.3 A Note on Tools</h3>
 </div>
 <br />
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)   
 
-Tools are not a neutral component. A chosen tool will either enable or impede architectural and engineering quality.  
+Tools are not neutral components. A chosen tool will either enable or impede architectural and engineering quality.  
 
-Tools are not a strategic capability. TCO includes the opportunity cost of what a team could otherwise be working on. In other words, use SaaS tools wherever architecturally appropriate options exist. Use of a qualified SaaS is one of the most accelerating strategies you can adopt, paying dividends on an ongoing basis.  
+Tools are not a strategic capability. TCO includes the opportunity cost of what a team could otherwise be working on. In other words, use SaaS tools wherever architecturally appropriate options exist. The use of a qualified SaaS is one of the most accelerating strategies you can adopt, paying dividends on an ongoing basis.  
 
 The statement, “It’s not about the tools” means only: No tool is going to solve for or remove the impact of your organizational challenges and culture.  
 
@@ -20,9 +20,9 @@ Suitability to IaC lifecycle and a domain-bounded implementation is a prerequisi
 
 ### 1.3.1 General tool selection criteria
 
-* Use small, focused tools that are exceptional in their implementation and interoperate well, over monolithic solutions. (One measure of exceptional being, an architecture designed clearly to be user-centric, and a roadmap based on real feedback.)  
+* Use small, focused tools that are exceptional in their implementation and interoperate well, over monolithic solutions. (One measure of _exceptional_ being, is an architecture designed clearly to be user-centric, and a roadmap based on real feedback.)  
 
-* Use domain bounded tools and frameworks that can be implemented to enable low-friction changes to higher value alternatives as they become available. (domain-bounded implementation in this case refers to the degree of difficulty in changing the tool when a higher value product comes along. Implement in such a way that the cost to change is relatively low and not a blocker to adoption of alternative technologies.)  
+* Use domain bounded tools and frameworks that can be implemented to enable low-friction changes to higher value alternatives as they become available. Domain-bounded implementation in this case refers to the degree of difficulty in changing the tool when a higher-value product comes along. Implement in such a way that the cost to change is relatively low and not a blocker to the adoption of alternative technologies.  
 
 * Prefer solutions offered by qualified SaaS providers over self-managed options, being painfully honest about the actual costs of ownership.  
 
@@ -31,10 +31,8 @@ Suitability to IaC lifecycle and a domain-bounded implementation is a prerequisi
 * The API should have all the functionality that the application provides.  
 * The API should be accessible by more than one language and platform.  
 * Coding around deficiencies in the product should be easier than recreating the product.  
-* 
 * All data stored in the product should be readable and writeable by other applications.  
 * For products that have authentication requirements, they should be able to authenticate and authorize from external, configurable sources. (In particular, they must integrate into the general AuthN/Z scheme of the overall platform, either natively or through custom integration.)
-
 * Place a high value on the depth of community involvement and support.  
 
 ### 1.3.2 Tools and technologies used in Lab examples
@@ -51,16 +49,16 @@ Refer to vendor [documentation](https://www.terraform.io/docs/cloud/index.html) 
 
 **secrets management**
 
-You will see various secrets-management systems or tools used among the lab environments and working-code examples. Refer to the following documentation sources for detailed information on any particular use case.  
+You will see various secrets-management systems or tools used in the lab environments and working-code examples. Refer to the following documentation sources for detailed information on any particular use case.  
 
-Most examples make use of `1password`.  
+Most examples make use of `1password secrets automation`.  
 
 - [1password](https://1password.com/products/secrets/)
 - [chamber](https://github.com/segmentio/chamber) (aws parameter store)
 
 ### specific conventions
 
-**Use of ENVIRONMENT variables in configuration of pipeline tools**  
+**Use of ENVIRONMENT variables in the configuration of pipeline tools**  
 
 While pipeline tools are a critical and necessary part of any software-defined system, inappropriate pipeline architectural choices can result in overly complex and brittle systems.  
 
@@ -68,13 +66,13 @@ Environment variables are a key example. While every pipeline orchestration tool
 
 The only variables defined within the pipeline tool, and thus available at the start of the triggered pipeline, should be the credentials of the pipeline service account. From this starting identity, the pipeline will then interact with the secrets-store or other env-key-store to bring in all other needed environment settings.  
 
-By doing so, pipelines automatically benefit from any credential rotation pattern or events related to environment config. And additionally, the complexity for automating the credentials of the pipelines themselves is continuously constrained.  
+By doing so, pipelines automatically benefit from any credential rotation pattern or events related to environment config. And additionally, the complexity of automating the credentials of the pipelines themselves is continuously constrained.  
 
 _example with 1password and CircleCI_
 
-A circleci `context` is defined that coincides with a github team. All circleci pipelines reference the context.
+A CircleCI `context` is defined that coincides with a GitHub team. All CircleCI pipelines reference the context.
 
-The only CircleCI ENV var defined within the context are the OP_CONNECT_URL and OP_CONNECT_TOKEN for the lab 1password vault.  
+The only CircleCI ENV var defined within the context is the OP_CONNECT_URL and OP_CONNECT_TOKEN for the lab 1password vault.  
 
 Now, at the start of any pipeline run, you can inject the credentials for all other pipeline activities or uses of secure config as needed.  
 
@@ -86,7 +84,6 @@ You will see examples using various well-suited pipeline tools, though chiefly i
 - [github actions](https://github.com/features/actions)
 
 **build-artifact stores**
-
 
 - [**github packages**](https://github.com/features/packages)  
 - [**dockerhub**](https://hub.docker.com)  
