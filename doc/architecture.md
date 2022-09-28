@@ -32,3 +32,7 @@
 
 **1.4.2.1 Initial Multi-team**  
 **1.4.2.1 Scaled**
+
+#### 1.4.3 Architectural Decision Record
+
+The general, ongoing list of ADRs is found [here](/doc/architectural_decisions/). Individual repositories may also contain their own Decision Records.

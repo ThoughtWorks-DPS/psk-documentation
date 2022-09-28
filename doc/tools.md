@@ -55,9 +55,8 @@ You will see various secrets-management systems or tools used among the lab envi
 
 Most examples make use of `1password`.  
 
-- [1password](https://1password.com/products/secrets/))
+- [1password](https://1password.com/products/secrets/)
 - [chamber](https://github.com/segmentio/chamber) (aws parameter store)
-- [hashi vault](https://www.vaultproject.io)
 
 ### specific conventions
 
