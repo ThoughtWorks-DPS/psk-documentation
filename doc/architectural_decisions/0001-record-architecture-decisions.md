@@ -8,7 +8,7 @@ Accepted
 
 ## Context
 
-We need to record the architectural decisions made on this project.
+We need to compile and maintain a record of the architectural decisions made on the Platform Starter Kit
 
 ## Decision
 

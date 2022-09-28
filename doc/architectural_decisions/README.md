@@ -8,11 +8,11 @@
 </div>
 <br />
 
-The top-level Platform Starter Kit architectural decision records are maintained in this lab-documentation. Individual repositories may also contain capability-specific ADRs.  
+The top-level Platform Starter Kit architectural decision records are maintained in the lab-documentation. Individual repositories may also contain capability-specific ADRs.  
 
 #### Adding Decision Records (for platform starter kit maintainers)
 
-The lab-documentation architectural decision records are maintained using [adr-tools](https://github.com/npryce/adr-tools). After you have installed the tool locally you may:  
+Decision records are maintained using [adr-tools](https://github.com/npryce/adr-tools). After you have installed the tool locally you may:  
 
 Create ADRs
 
