@@ -84,6 +84,18 @@ Friction, rigidity, and instability are the results of organizational and archit
 * Purchasing or otherwise committing to architectural solutions based solely on website documentation or sales-engineering assurances
 * Functionally isolating technology or tool decisions away from the primary users or implementors.
 
+#### 1.1.5 A Definition of Software Defined
+
+
+Software Defined Infrastructure means:  
+Use of modern SDLC practices and infrastructure frameworks in the continuous integration and delivery of systems that are resilient, secure, observable, and capable of change at scale.  
+
+| Software Defined | vs | Not Quite |
+|------------------|----|-----------|
+| Entire Infrastructure deployed using diffable, versioned source Code and 3rd party artifacts| | Varying amounts of manual configuration |
+| Engineered “as software” (evolutionary, tdd, dry, static code analysis, …) | | Engineered mechanically (gather all specs, copy/paste scripts between environments, human inspection for correctness) |
+| Orchestrated by domain bounded, heterogeneous pipelines | | Varying amounts of manual orchestration, monolithic infrastructure code |
+| Resiliency, security, observability are an attribute of every domain | | Functionally siloed and optimized, security added on after the fact |
 
 <br />
 
