@@ -75,7 +75,7 @@ Friction, rigidity, and instability are the results of organizational and archit
 * Commit to architecture decisions only after comparative experimentation and based on outcomes of working implementations for real development deliverables.
 * Suitability to IaC lifecycle and domain-bounded implementation is a prerequisite for all tools and technologies.
 * Apply software lifecycle practice to infrastructure code, e.g., test-driven development, continuous integration, pipelines
-* Rigorously architect dimensions for change both in the selection of tools and technologies as well as in their implementation, e.g., use small or narrowly focused tools that are excellent at one thing and inter-operate easily with other technologies rather than all-in-one products that attempt to do many different things. Have ease of replacement in mind.
+* Rigorously architect dimensions for change both in the selection of tools and technologies as well as in their implementation, e.g., use small or narrowly focused tools that are excellent at one thing and inter-operate easily (loosely copuled) with other technologies rather than all-in-one products that attempt to do many different things. Have ease of replacement in mind.
 * Access to infrastructure is self-serve and on-demand. Either a development team self-manages their infrastructure, or dedicated infrastructure teams deliver a self-serve interface to development teams.
 
 **Avoid** 
