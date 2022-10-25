@@ -93,9 +93,9 @@ Use of modern SDLC practices and infrastructure frameworks in the continuous int
 | Software Defined | vs | Not Quite |
 |------------------|----|-----------|
 | Entire Infrastructure deployed using diffable, versioned source Code and 3rd party artifacts| | Varying amounts of manual configuration |
-| Engineered “as software” (evolutionary, tdd, dry, static code analysis, …) | | Engineered mechanically (gather all specs, copy/paste scripts between environments, human inspection for correctness) |
+| Engineered “as software” (evolutionary, tdd, dry, static code analysis, …) | | Engineered mechanically (attempt to pre-architect for all possible outcomes, copy/paste scripts between environments, human inspection for correctness) |
 | Orchestrated by domain bounded, heterogeneous pipelines | | Varying amounts of manual orchestration, monolithic infrastructure code |
-| Resiliency, security, observability are an attribute of every domain | | Functionally siloed and optimized, security added on after the fact |
+| Resiliency, security, observability are an attribute of every domain | | DR and monitoring are functionally siloed and optimized, security added on after the fact |
 
 <br />
 
