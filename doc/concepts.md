@@ -97,6 +97,36 @@ Use of modern SDLC practices and infrastructure frameworks in the continuous int
 | Orchestrated by domain bounded, heterogeneous pipelines | | Varying amounts of manual orchestration, monolithic infrastructure code |
 | Resiliency, security, observability are an attribute of every domain | | DR and monitoring are functionally siloed and optimized, security added on after the fact |
 
+**First Principals of Platform Product Architectures**  
+
+
+<br />
+<hr />
+<br />
+<div align="center">
+  <h4>Platform Manifesto</h4>
+  <p>• There is one platform, not a collection of platforms •</p>
+  <p>• The desired state of the platform is a known quantity •</p>
+  <p>• The desired state is machine parseable •</p>
+  <p>• The only authoritative source for the actual state of the platform is the platform •</p>
+  <p>• The actual state must self-correct to the desired state •</p>
+  <p>• The entire platform is deployable using diffable source code and 3rd party artifacts •</p>
+  <p>• Test don’t inspect •</p>
+  <p>• Convention rather than configuration •</p>
+  </p>
+  <br />
+  <p>
+  <p>_translation_</p>
+  <p>(Every environment is like production)</p>
+  <p>(Every detail of the desired state is documented)</p>
+  <p>(The "desired state" documention is also the source-code for the software-defined delivery of the platform )</p>
+  <p>(Avoid monitoring only proxies of state wherever possible)</p>
+  <p>(The platform architecture is based on resiliency, not just availability)</p>
+  <p>(It is software-defined, employing sdlc practices, not merely automated)</p>
+  <p>(No dependencies on human inspection either to determine or validate state)</p>
+  <p>(Naming is not merely an identifier but aims to be derivable from knowing the product, environment, component, etc)</p>
+</div>
+<br />
 <br />
 
 [^1]: Donald G. Reinertsen, "Managing Queues," in _The Principles of Product Development Flow, Second Generation, Lean Product Development_ (Redondo Beach, California: Celeritas Publishing, 2009). The entire book is an excellent treatise on the effects of legacy batch-and-queue processes on the software development lifecycle. 
