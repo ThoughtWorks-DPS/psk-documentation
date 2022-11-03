@@ -17,14 +17,14 @@ The general, ongoing list of ADRs is found [here](/doc/architectural_decisions/)
 
 #### 1.4.2 Distributed Compute Foundations
 
-<div align="center">
-		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/distributed_compute_foundation.png?sanitize=true" width=1150/>
-</div>
-
 **Initial build pipelines diagram**
 
 <div align="center">
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/platform_build_diagram.png?sanitize=true" width=1150/>
+</div>
+
+<div align="center">
+		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/distributed_compute_foundation.png?sanitize=true" width=1150/>
 </div>
 
 #### 1.4.3 Delivery Infrastructure (or Engineering) Platform domain boundaries
