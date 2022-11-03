@@ -17,7 +17,7 @@ The typical infrastructure platform product aws account structure:
 
 <div align="center">
 	<p>
-		<img alt="account strategy" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/main/doc/img/aws_account_strategy.png" />
+		<img alt="account strategy" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/aws_account_strategy.png" />
 	</p>
 </div>
 
