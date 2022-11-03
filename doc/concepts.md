@@ -98,10 +98,6 @@ Use of modern SDLC practices and infrastructure frameworks in the continuous int
 | Resiliency, security, observability are an attribute of every domain | | DR and monitoring are functionally siloed and optimized, security added on after the fact |
 
 **First Principals of Platform Product Architectures**  
-
-
-<br />
-<hr />
 <br />
 <div align="center">
   <h4>Platform Manifesto</h4>
