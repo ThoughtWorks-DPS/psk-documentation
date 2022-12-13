@@ -129,3 +129,7 @@ Use of modern SDLC practices and infrastructure frameworks in the continuous int
 [^1]: Donald G. Reinertsen, "Managing Queues," in _The Principles of Product Development Flow, Second Generation, Lean Product Development_ (Redondo Beach, California: Celeritas Publishing, 2009). The entire book is an excellent treatise on the effects of legacy batch-and-queue processes on the software development lifecycle. 
 
 [^2]: Neal Ford, Rebecca Parsons, Patrick Kua, _Building Evolutionary Architectures_ (O'Reilly Media, Inc, 2017), 5. 
+
+<hr>  
+
+[<kbd> <br> Home <br> </kbd>](../README.md)
