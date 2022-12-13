@@ -29,4 +29,4 @@
 
 (_pending_)  
 
-[<kbd> <br> HOME <br> </kbd>](../README.md)
+[<kbd> <br> Home <br> </kbd>](../README.md)
