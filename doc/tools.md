@@ -94,3 +94,7 @@ You will see examples using various well-suited pipeline tools, though chiefly i
 - [**codeclimate**](https://codeclimate.com)
 - [codacy](https://codacy.com)
 - [**snyk**](https://snyk.io)
+
+<hr>  
+
+[<kbd> <br> Home <br> </kbd>](../README.md)
