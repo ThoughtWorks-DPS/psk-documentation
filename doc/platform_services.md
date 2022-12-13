@@ -18,7 +18,28 @@ _(Pending)_
 
 _(Pending)_  
 
+## Link Outside
 
+*The whole button is clickable,* <br>
+*but doesn't have any color.*
+
+<br>
+
+[<kbd> <br> Title <br> </kbd>][Link]
+
+<br>
+
+```markdown
+[<kbd> <br> Title <br> </kbd>][Link]
+```
+
+```markdown
+[Link]: # 'Link with example title.'
+```
+
+
+
+===============  
 [![Button Shield]][Shield]
 
 
