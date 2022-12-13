@@ -97,7 +97,8 @@ Use of modern SDLC practices and infrastructure frameworks in the continuous int
 | Orchestrated by domain bounded, heterogeneous pipelines | | Varying amounts of manual orchestration, monolithic infrastructure code |
 | Resiliency, security, observability are an attribute of every domain | | DR and monitoring are functionally siloed and optimized, security added on after the fact |
 
-**First Principals of Platform Product Architectures**  
+#### 1.1.6 Guiding Principals of Platform Product Architectures
+
 <br />
 <div align="center">
   <h4>Platform Manifesto</h4>
@@ -115,7 +116,7 @@ Use of modern SDLC practices and infrastructure frameworks in the continuous int
   <p>_translation_</p>
   <p>(Every environment is like production)</p>
   <p>(Every detail of the desired state is documented)</p>
-  <p>(The "desired state" documention is also the source-code for the software-defined delivery of the platform )</p>
+  <p>(The "desired state" is part of or consumable by the source-code for the software-defined delivery of the platform )</p>
   <p>(Avoid monitoring only proxies of state wherever possible)</p>
   <p>(The platform architecture is based on resiliency, not just availability)</p>
   <p>(It is software-defined, employing sdlc practices, not merely automated)</p>
