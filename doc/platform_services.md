@@ -18,34 +18,6 @@ _(Pending)_
 
 _(Pending)_  
 
-## Link Outside
+<hr>  
 
-*The whole button is clickable,* <br>
-*but doesn't have any color.*
-
-<br>
-
-[<kbd> <br> Title <br> </kbd>][Link]
-
-<br>
-
-```markdown
-[<kbd> <br> Title <br> </kbd>][Link]
-```
-
-```markdown
-[Link]: # 'Link with example title.'
-```
-
-
-
-===============  
-[![Button Shield]][Shield]
-
-
-<!---------------------------------------------------------------------------->
-
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-[Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
+[<kbd> <br> Home <br> </kbd>](../README.md)
