@@ -16,7 +16,7 @@ Documentation and guides for EMPC NA labs OSS resources.
 1.3 [A Note on Tools](./doc/tools.md)  
 1.4 [Architecture](./doc/architecture.md)  
 
-#### 2. Code Examples 
+#### 2. Code 
 
 2.1 [Distributed Compute Foundations](./doc/dist_compute_foundations.md)  
 2.2 [Platform APIs](./doc/platform_apis.md)  
