@@ -19,8 +19,8 @@ Documentation and guides for EMPC NA labs OSS resources.
 #### 2. Code 
 
 2.1 [Foundation Pipelines](./doc/dist_compute_foundations.md)  
-2.2 [Customer Onboarding and Management APIs](./doc/platform_apis.md) 
-2.3 [Platform Services](./doc/platform_services.md)
+2.2 [Customer Onboarding and Management APIs](./doc/platform_apis.md)  
+2.3 [Platform Services](./doc/platform_services.md)  
 2.4 [Platform Development Resources](./doc/platform_development_resources.md)  
 
 #### 3. The `Demo` Customer 
