@@ -14,7 +14,7 @@
 
 <br>
 
-[<kbd> <br> Title <br> </kbd>](platformo_services.md)
+[<kbd> <br> Title <br> </kbd>](platform_services.md)
 
 <br>
 
