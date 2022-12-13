@@ -34,7 +34,7 @@ _actions_
 [terraform-action](https://github.com/ThoughtWorks-DPS/terraform-action)  
 [lab-runner-setup-action](https://github.com/ThoughtWorks-DPS/lab-runner-setup-action)  
 
-#### 2.4.3 po configuration  
+#### 2.4.3 pod configuration  
 
 [certificate-init-container](https://github.com/ThoughtWorks-DPS/certificate-init-container)  
 
