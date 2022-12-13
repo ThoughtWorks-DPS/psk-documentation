@@ -77,3 +77,7 @@ The `prod` account is for customer production workloads and for the custom, plat
 #### 1.4.4 Architectural Decision Record
 
 We will be going back and gathering the historical ADRs [here](/doc/architectural_decisions/). Individual repositories may also contain their own Decision Records. Once in place this will become the ongoing source for such records.  
+
+<hr>  
+
+[<kbd> <br> Home <br> </kbd>](../README.md)
