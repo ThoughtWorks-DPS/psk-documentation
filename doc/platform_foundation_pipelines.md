@@ -29,4 +29,5 @@
 
 (_pending_)  
 
+<hr>
 [<kbd> <br> Home <br> </kbd>](../README.md)
