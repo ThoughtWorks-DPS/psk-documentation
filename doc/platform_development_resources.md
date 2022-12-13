@@ -36,7 +36,7 @@ _actions_
 
 #### 2.4.3 pod configuration  
 
-[certificate-init-container](https://github.com/ThoughtWorks-DPS/certificate-init-container) 
+[certificate-init-container](https://github.com/ThoughtWorks-DPS/certificate-init-container)  
 [sidecar-mutatingwebhook-init-container](https://github.com/ThoughtWorks-DPS/sidecar-mutatingwebhook-init-container) 
 
 <hr>  
