@@ -27,4 +27,6 @@
 
 #### 2.1.3 Microsoft Azure Cloud Computing Services
 
-(_pending_)
+(_pending_)  
+
+[<kbd> <br> HOME <br> </kbd>](../README.md)
