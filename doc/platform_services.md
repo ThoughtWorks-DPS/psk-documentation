@@ -14,7 +14,7 @@
 
 [Architectural Overview](./img/opa-http-architecture.png)  
 
-[lab-platform-aws-opa-bundle-server](https://github.com/ThoughtWorks-DPS/lab-platform-aws-opa-bundle-server/blob/main/README.md)  
+[lab-platform-aws-opa-bundle-server](https://github.com/ThoughtWorks-DPS/lab-platform-aws-opa-bundle-server/blob/main/README.md) _(pending)_  
 lab-platform-gcp-opa-bundle-server _(pending)_  
 lab-platform-azure-opa-bundle-server _(pending)_  
 
