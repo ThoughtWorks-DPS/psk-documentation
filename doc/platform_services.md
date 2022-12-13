@@ -10,6 +10,10 @@
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
-### 2.3.1 Openpolicyagent for HTTP  
+### 2.3.1 Openpolicyagent for Customer services authN/Z (HTTP)  
 
-2.3 [Policy as Code](./doc/policy_as_code.md) (_pending_)  
+_(Pending)_  
+
+### 2.3.2 Openpolicyagent for Kubernetes
+
+_(Pending)_  
