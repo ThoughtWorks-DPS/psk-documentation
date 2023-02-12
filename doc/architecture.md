@@ -10,7 +10,6 @@
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
-
 #### 1.4.1 Account Structures
 
 Initial Platform product launch and development account structures. Accounts in this case refer to the cloud vendors natural configuration isolation boundaries. In the case of AWS, these are Accounts, for Google Cloud these can be Projects, and so on.  
