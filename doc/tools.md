@@ -20,7 +20,7 @@ Suitability to IaC lifecycle and a domain-bounded implementation is a prerequisi
 
 ### 1.3.1 General tool selection criteria
 
-* Use small, focused tools that are exceptional in their implementation and interoperate well, over monolithic solutions. (One measure of _exceptional_ being, is an architecture designed clearly to be user-centric, and a roadmap based on real feedback.)  
+* Use small, focused tools that are exceptional in their implementation and interoperate well, over monolithic solutions. (One measure of _exceptional_ being, is an architecture designed clearly to be user-centric, with a roadmap based on real feedback.)  
 
 * Use domain bounded tools and frameworks that can be implemented to enable low-friction changes to higher value alternatives as they become available. Domain-bounded implementation in this case refers to the degree of difficulty in changing the tool when a higher-value product comes along. Implement in such a way that the cost to change is relatively low and not a blocker to the adoption of alternative technologies.  
 
@@ -87,12 +87,10 @@ You will see examples using various well-suited pipeline tools, though chiefly i
 
 - [**github packages**](https://github.com/features/packages)  
 - [**dockerhub**](https://hub.docker.com)  
-- aws elastic container registry  
 
 **code analysis reporting**
 
 - [**codeclimate**](https://codeclimate.com)
-- [codacy](https://codacy.com)
 - [**snyk**](https://snyk.io)
 
 <hr>  
