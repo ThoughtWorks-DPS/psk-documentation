@@ -17,7 +17,7 @@ Initial Platform product launch and development account structures. Accounts in 
 
 <div align="center">
 	<p>
-		<img alt="account strategy" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/1_architecture.png" />
+		<img alt="account strategy" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/architecture1.png" />
 	</p>
 </div>
 
@@ -56,6 +56,16 @@ All customer, non-production workloads live in the `non-production` account.
 The `production` account is for customer production workloads and for the custom, general platform capability APIs used by customers.  
 
 Within the EPMC Platform Starter Kit working examples, this overall structure has been demonstrated while limited to just two accounts for cost purposes.  
+
+#### 1.4.2 How accounts and cluster instances relate to Platform product release pipelines
+
+Platform product release pipelines will follow one of these patterns based on underlying resource:  
+
+<div align="center">
+	<p>
+		<img alt="account strategy" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/1_architecture.png" />
+	</p>
+</div>
 
 #### 1.4.2 Distributed Compute Foundations
 
