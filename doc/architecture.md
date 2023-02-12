@@ -62,7 +62,7 @@ Platform product release pipelines will follow one of these patterns based on un
 
 <div align="center">
 	<p>
-		<img alt="account strategy" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/1_architecture.png" />
+		<img alt="account strategy" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/architecture2.png" />
 	</p>
 </div>
 
