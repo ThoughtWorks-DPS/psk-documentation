@@ -13,6 +13,8 @@
 
 #### 1.4.1 Account Structures
 
+Initial Platform product launch and development account structures. Accounts in this case refer to the cloud vendors natural configuration isolation boundaries. In the case of AWS, these are Accounts, for Google Cloud these can be Projects, and so on.  
+
 <div align="center">
 	<p>
 		<img alt="account strategy" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/aws_account_strategy.png" />
