@@ -55,6 +55,8 @@ All customer, non-production workloads live in the `non-production` account.
 
 The `production` account is for customer production workloads and for the custom, general platform capability APIs used by customers.  
 
+Within the EPMC Platform Starter Kit working examples, this overall structure has been demonstrated while limited to just two accounts for cost purposes.  
+
 #### 1.4.2 Distributed Compute Foundations
 
 **Initial build pipelines diagram for baseline platform components**
