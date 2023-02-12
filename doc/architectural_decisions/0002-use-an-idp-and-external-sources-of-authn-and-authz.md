@@ -8,11 +8,11 @@ Accepted
 
 ## Context
 
-We are providing  a platform product, with an independent user experience, not merely constructs within a federated infrastructure setting. The DI platform customer's identity for authn and authz purposes should be independent of the IaaS provider'a IAM.  
+We are providing a platform product, with an independent user experience, not merely constructs within a federated infrastructure setting. The DI platform customer's identity for authn and authz purposes should be independent of the IaaS provider'a IAM.  
 
 ## Decision
 
-The lab platform starter kit examples will incorporate the users Github identity and team membership for authn and rbac decisions.  
+The lab platform starter kit will implement a incorporate the users Github identity and team membership for authn and rbac decisions.  
 
 ## Consequences
 
