@@ -7,9 +7,10 @@
 </div>
 <br />
 
-Documentation and guides for EMPC NA labs OSS resources.  
 
-#### 1. Getting Started   
+The EMPC Platform Starter Kits provide the architectural guidelines and software building blocks for delivering a modern Engineering Platform, providing a self-serve, product experience for software development teams.  
+
+#### 1. Introduction   
 
 1.1 [Concepts](./doc/concepts.md)  
 1.2 [Identity and Authorization](./doc/identity.md)  
