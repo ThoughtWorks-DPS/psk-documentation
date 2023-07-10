@@ -13,9 +13,9 @@ The EMPC Platform Starter Kits provide the architectural guidelines and software
 #### 1. Introduction   
 
 1.1 [Concepts](./doc/concepts.md)  
-1.2 [Identity and Authorization](./doc/identity.md)  
-1.3 [A Note on Tools](./doc/tools.md)  
-1.4 [Architecture](./doc/architecture.md)  
+1.2 [Architecture](./doc/architecture.md)  
+1.3 [Identity and Authorization](./doc/identity.md)  
+1.4 [A Note on Tools](./doc/tools.md)  
 
 #### 2. Code 
 

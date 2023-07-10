@@ -12,7 +12,7 @@
 
 Identity and authorization is a _solve-for-first_ issue, with repercussions across a platform product implementation.    
 
-IDP is itself a capability that will need to be made available to platform users as well as incorporated into the platform. Effective productization of DI capabilities requires the abstraction of the platform user's identity from the underlying infrastructure configuration; as you are experiencing right now as you read this document on GitHub. GitHub has not integrated your github user identity into their infrastructure IAM.  
+IDP is itself a capability that will need to be made available to platform users as well as incorporated into the platform. Effective productization of DI capabilities requires the abstraction of the platform user's identity from the underlying infrastructure IAM capabilities; as you are experiencing right now as you read this document on GitHub. Your identity integration with GitHub is not built around direct or SSO integration with their infrastructure providers IAM capability. Customer identity within GitHub is within an Abstraction layer.  
 
 If you are going to deliver a self-serve experience for internal consumers of a delivery infrastructure platform, how will you enable those internal teams to self-manage team creation and membership? When a team adds a team membership, how will that team member automatically have access to all of the team resources?  
 

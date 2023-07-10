@@ -12,7 +12,23 @@
 
 #### 1.4.1 Account Structures
 
-Initial Platform product launch and development account structures. Accounts in this case refer to the cloud vendors natural configuration isolation boundaries. In the case of AWS, these are Accounts, for Google Cloud these can be Projects, and so on.  
+Accounts in this case refer to the cloud vendors natural configuration isolation boundaries. In the case of AWS, these are Accounts, for Google Cloud these can be Projects, and so on. Accounts associated with a particular product exist within the larger organizational structure of the Enterprise.  
+
+For example, in AWS the top-level organizational-unit structure for an Enterprise is typically created according to the following structure:  
+
+<div align="center">
+	<p>
+		<img alt="account strategy" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/org_ou_structure.png" />
+	</p>
+</div>
+
+Within these OUs then, accounts are created for the various business domains:  
+<div align="center">
+	<p>
+		<img alt="account strategy" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/lab-documentation/master/doc/img/org_account_structure.png" />
+	</p>
+</div>
+
 
 <div align="center">
 	<p>
