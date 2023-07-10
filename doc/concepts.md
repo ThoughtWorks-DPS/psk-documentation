@@ -10,23 +10,23 @@
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
-#### 1.1.1 Modern Delivery Infrastructure Platforms (Engineering Platforms)
+#### 1.1.1 Modern Engineering Platforms
 
-The EMPC labs' OSS resources are related to building modern Delivery Infrastructure platforms, consumed by internal customers, providing an independently useable, product experience. 
+The EMPC labs' OSS resources are related to building a modern engineering platform, consumed by internal customers, providing an independently useable, product experience. In the past we have also called these as Delivery Infrastructure products.  
 
 We refer to these resources collectively as **Platform Starter Kits**.
 
-> A Delivery Infrastructure Platform is “a foundation of self-service APIs, tools, services, knowledge, and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced coordination.” - Evan Bottcher 
+> An Engineer Platform is “a foundation of self-service APIs, tools, services, knowledge, and support which are arranged as a compelling internal product. Autonomous delivery teams can make use of the platform to deliver product features at a higher pace, with reduced coordination.” - Evan Bottcher 
 
 #### 1.1.2 Product Experience
 
-_Product Experience_ refers to a high-quality self-serve, consumer experience when using platform capabilities. 
+_Product Experience_ refers to a high-quality, self-serve, consumer experience when using platform capabilities. 
 
 This is analogous to the experience we've come to expect from the many SaaS providers now offering developer tools.  
 
-Let's use GitHub as an example. In a well-formed enterprise adoption of github, as a Developer, knowing the url of the company's organization, I expect to be able to login using my company SSO credentials. I expect that I can interact with git services on-demand, using as much `git` as I need, whenever I need it. I can readily create repos, edit code, delete repos, and in general do all the git-things without needing to ask someone else to these necessary things on my behalf. I can use the git cli, or I can use the UI wherever it makes sense for my tasks. And I expect to be able to directly call the github API to fully automate whatever behavior I find valuable. If I have to call someone at GitHub, or open a ticket, it should only be when something is broken on their end. And I also expect GitHub to be actively developing the product. As a valued customer    
+Let's use GitHub as an example. In a well-implemented enterprise adoption of GitGub, as a Developer, knowing the url of the company's organization, I expect to be able to login using my company SSO credentials. I expect that I can interact with git services on-demand, using as much `git` as I need, whenever I need it. I can readily create repos, edit code, delete repos, and in general do all the git-things without needing to ask someone else to do these necessary things on my behalf. I can use the git cli, or I can use the UI wherever it makes sense for my tasks. And I expect to be able to directly call the github API to fully automate whatever behavior I find valuable. If I have to call someone at GitHub, or open a ticket, it should only be when something is broken on their end. And I also expect GitHub to be actively developing the product. As a valued customer, I want to be able to submit feature requests and otherwise influence the product roadmap. But from the start, the functionality available offers significant value and in those places where I wish it could do more - I can adopt my own work-arounds. There is adequaete documentation (text, video, etc) such that it is completely reasonable to expect that I can discover and make full use of GitHub in an independent and self-directed manner.  
 
-When incorporating Google Maps into the location information on my corporate website, I expect to be able to call the service whenever needed and for as much of the 'maps' capability as I need. I may have to sign-up as a developer or go to my profile information and generate an API token, but after a lightweight access activity, I assume zero lead-time planning is required and there will be no friction beyond learning how to use the API. And whatever onboarding may be required, whether access or learning, I expect to be able to do so independently and self-serve. 
+This is the kind of `product` experience that goes into delivering an Engineering Platform.  
 
 Providing a product experience means removing the organizational lead-time planning and engineering friction normally associated with deploying and managing software. 
 
@@ -37,35 +37,35 @@ What do we mean by _lead-time planning and engineering friction_?
 When a development team, in the course of creating and delivering business capabilities and customer experiences, must coordinate their own delivery needs with other functional technology teams, this requires engaging in lead-time planning activities to prevent being blocked. 
 
 Typical examples may include needing to schedule-ahead requests with: 
-* an IAM Team - to create machine account or custom roles to support customization or technologies not already in service.
-* a DNS Team - to create DNS entries needed by their service
-* an SSO team - to gain access to each of the various, standard developer resources such as git repositories, pipeline tools, or static code analysis tools. Or to coordinate accurate RBAC within such tools for their team. 
-* a separate DevOps team - to make changes to a pipeline, request additional compute resources, gain access to a prod environment during an outage or direct members of the DevOps to perform outage response on their behalf. 
+* an IAM Team - to create a machine account or custom roles so I can access and customize technologies.
+* a DNS Team - to create DNS entries needed by my service
+* an SSO team - to gain access to each of the various, standard developer resources such as git repositories, pipeline tools, or static code analysis tools. Or to coordinate accurate RBAC within such tools for myself or my team. 
+* a separate DevOps team - to make changes to my pipeline, request additional compute resources, gain access to a production environment during an outage or direct members of the DevOps to perform outage responses on my behalf. 
 * a Monitoring team - to gain access to infrequently used logs or metrics or to request the creation of monitors, alerts, or dashboards. 
 
-And this is just a very brief list. 
+And this is definitely the shortest of lists. 
 
-A dev team will collectively spend many hours trying to get needed changes scheduled ahead of the dependent stories, time is taken away from delivering business value. As it is not possible to adequately anticipate everything before encountering the situationally specific need, nor predict how long these other teams may need to complete such tasks, stories are routinely blocked. Yet, organizations are under tremendous delivery pressure and set aggressive delivery dates around backlogs running months and even years into the future. The understandable result is not managers seeing blocked stories pilling up across their teams but rather teams are continuously re-prioritizing work to prevent being idle. 
+A dev team will collectively spend significat hours trying to get needed changes scheduled ahead of the dependent stories, time taken away from delivering business value. As it is not possible to adequately anticipate everything before encountering the situationally specific need, nor predict how long these other teams may need to complete such tasks therefore work is routinely blocked. Yet, organizations are under tremendous delivery pressure and set aggressive delivery dates around backlogs running months and even years into the future. The result is not only blocked stories pilling up across team backlogs, but also teams are continuously re-prioritizing work based not on value but on which stories are not blocked this sprint.  
 
-_Note. The inter-team dependencies in focus here are not the coordination needs that arise from creating multiple business services and capabilities that may have interdependent outcome goals. While poorly managed domain boundaries amongst business capability teams are also a source of planning challenges and friction, it is the traditional IT and technology silos that are at the heart of delivery-infrastructure platform products._
+_Note. The inter-team dependencies in focus here are not the coordination needs that arise from creating multiple business services and capabilities that may have interdependent outcome goals. While poorly managed domain boundaries amongst business capability teams are also a source of planning challenges and friction, it is the traditional IT and technology silos that are at the heart of engineering platform products._
 
 **Engineering Friction** 
 
-Engineering friction is the ubiquitous result of the batch-and-queue assembly line and operating model that result from establishing functional 'IT Service' silos. These functional teams are staffed to maintain 100% utilization resulting in widely variable cycle time, reduced quality, and overall increased risk[^1]. 
+Engineering friction is the ubiquitous result of the batch-and-queue assembly line operating model that result from establishing functional 'IT Service' silos. These functional teams are staffed to maintain 100% utilization resulting in widely variable cycle time, reduced quality, and overall increased risk[^1]. 
 
 Multiple interactions with many such teams increase the communication challenges, additionally contributing to the variable cycle times and frequent re-work.  
 
-#### 1.1.3 Use of SaaS  
+#### 1.1.3 Use of SaaS versus Self-Managed capabilities  
 
 Throughout the Platform Starter Kit, you will see extensive use of SaaS-based development tools and IaaS providers. This is intentional and recommended. 
 
-While necessary for delivering high-quality customer experiences in software, none of the tools and technologies used in the development, release, operations, and maintenance of software are themselves strategic differentiators. 
+While necessary for delivering high-quality customer experiences in software, none of the tools and technologies used in the development, release, operation, and maintenance of software are themselves strategic differentiators. 
 
-Organizations routinely underestimate the cost of self-managing COTS and development-related services in particular, even going so far as to use poorly-suited but familiar tools like Jenkins. I.e., it is frequently the case that an honest and realistic assessment of actual cost reveals self-managed Jenkins as the most expensive component in a dev toolchain. 
+Organizations routinely under estimate the cost of self-managing COTS, development-related services in particular, even going so far as to use poorly-suited but familiar tools like Jenkins. I.e., it is frequently the case that an honest and realistic assessment of actual cost reveals self-managed Jenkins as the most expensive component in a dev toolchain. 
 
 Using secure and well-architected SaaS development tools is consistently one of the most accelerating and cost-saving strategies available. And not only during the implementation phase but over the entire life of the platform. 
 
-Even if you have the financial resources to comfortably afford the increased costs of self-managed development and maintenance of non-differentiated capabilities, the opportunity cost alone negates any perceived value and cannot be recovered later through additional investment. Invest in creating and maintaining the capabilities that are your strategic differentiators amongst the competition. New business building is a defining characteristic of digitally successful companies. 
+Even if you have the financial resources to comfortably afford the increased costs of self-managed development and maintenance of non-differentiated capabilities, the opportunity cost alone negates any perceived value and cannot be recovered later through additional investment. Invest in creating and maintaining the capabilities that are your company's strategic differentiators amongst the competition. New business building is a defining characteristic of digitally successful companies. 
 
 #### 1.1.4 Evolutionary Architecture and agility
 
@@ -80,7 +80,7 @@ Friction, rigidity, and instability are the results of organizational and archit
 * Suitability to IaC lifecycle and domain-bounded implementation is a prerequisite for all tools and technologies.
 * Apply software lifecycle practice to infrastructure code, e.g., test-driven development, continuous integration, pipelines
 * Rigorously architect dimensions for change both in the selection of tools and technologies as well as in their implementation, e.g., use small or narrowly focused tools that are excellent at one thing and inter-operate easily (loosely copuled) with other technologies rather than all-in-one products that attempt to do many different things. Have ease of replacement in mind.
-* Access to infrastructure is self-serve and on-demand. Either a development team self-manages their infrastructure, or dedicated infrastructure teams deliver a self-serve interface to development teams.
+* Access to infrastructure is self-serve and on-demand. Either a development team self-manages their own infrastructure, or dedicated infrastructure teams deliver a self-serve interface to development teams.
 
 **Avoid** 
 
@@ -89,7 +89,6 @@ Friction, rigidity, and instability are the results of organizational and archit
 * Functionally isolating technology or tool decisions away from the primary users or implementors.
 
 #### 1.1.5 A Definition of Software Defined
-
 
 Software Defined Infrastructure means:  
 Use of modern SDLC practices and infrastructure frameworks in the continuous integration and delivery of systems that are resilient, secure, observable, and capable of change at scale.  
