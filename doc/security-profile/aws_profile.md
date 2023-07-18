@@ -166,11 +166,18 @@ For additional information about the shared responsibility model, see https://aw
 
 As quoted in the guidance, "At times, you may need to grant an exception for applications that have to consume the Kubernetes API from outside the cluster, e.g. a CI/CD pipeline application."  
 
-The PSK service accounts are used only in the Foundation pipelines. These credentials only have permissions to assume a role, thereby only short-lived credentials are used for all configuration activity. The underlying static credentials are automatically rotated twice monthly.  
+The PSK service accounts are used only in the Foundation pipelines. These credentials maintained with a secure secrets store and only have permissions to assume a role, thereby only short-lived credentials are used for all configuration activity. The underlying static credentials are automatically rotated twice monthly.  
+
+Additional details:  
+[psk-aws-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-aws-iam-profiles)
 
 ##### Employ least privileged access to AWS Resources  
 
 For service accounts, each foundation pipeline uses a role with the necessary permissions. Apart from the platform engineering product team, no other human user has direct aws permissions. Services that interact with AWS managed services use oidc assumable roles created specifically for the service and namespaces via k8s operators.  
+
+Additional details:  
+[psk-aws-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-aws-iam-profiles)
+[psk-aws-platform-eks-core-services]
 
 ##### Use IAM Roles when multiple users need identical access to the cluster  
 
@@ -193,10 +200,17 @@ A dedicated role, not used for any other purpose, is created for the psk-aws-pla
 Change to the aws-auth configmap is only made via the lsk-aws-platform-eks-base pipeline using terraform.  
 
 ##### Alternative Approaches to Authentication and Access Management  
+
 As noted above, we use an Auth0, oauth2/oidc integration for all User (including admin ) access to the platform.  
 
-##### IAM Roles for Service Accounts (IRSA)
-##### Update the aws-node daemonset to use IRSA
+##### IAM Roles for Service Accounts (IRSA)  
+
+Any service running on a cluster that will interact with any AWS managed service does so through oidc assumable roles.  
+
+##### Update the aws-node daemonset to use IRSA  
+
+
+
 ##### Restrict access to the instance profile assigned to the worker node
 ##### Scope the IAM Role trust policy for IRSA to the service account name
 ##### Disable auto-mounting of service account tokens
