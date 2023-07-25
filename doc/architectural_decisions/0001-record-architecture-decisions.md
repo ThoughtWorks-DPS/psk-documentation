@@ -12,7 +12,9 @@ We need to compile and maintain a record of the architectural decisions made on 
 
 ## Decision
 
-We will use Architecture Decision Records, as [described by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
+We will use Architecture Decision Records, as [described by Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).  
+
+As part of documenting prior decisions, we will use a date notation limited to the year.  
 
 ## Consequences
 
