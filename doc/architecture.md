@@ -15,7 +15,7 @@
 1.4.3 [Prerequisites](architecture_1.4.3.md)  
 1.4.4 [Platform Control Plane](architecture_1.4.4.md)  
 1.4.5 [Platform Managment APIs](architecture_1.4.5.md)  
-1.4.6 [Architectural Decision Record](architectural_decisions/README.md)  
+1.4.6 [Architectural Decision Record](architectural_decisions/)  
 
 <hr>  
 
