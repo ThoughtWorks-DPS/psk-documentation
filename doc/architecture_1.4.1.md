@@ -74,4 +74,4 @@ The `production` account is for customer production workloads and for the custom
 Within the EPMC Platform Starter Kit working examples, this overall structure has been demonstrated while limited to just two accounts for cost purposes.  
 
 
-[<kbd> <br> Home <br> </kbd>](architecture.md)
+[<kbd> <br> Back <br> </kbd>](architecture.md)

@@ -4,8 +4,12 @@
     <br />
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/EMPCPlatformStarterKitsImage.png?sanitize=true" width=350/>
 	</p>
-  <h3>1.4 Architecture</h3>
+  <h3>1.4.2 Engineering Platform Domain Boundaries</h3>
 </div>
 <br />
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
+
+
+
+[<kbd> <br> Back <br> </kbd>](architecture.md)
