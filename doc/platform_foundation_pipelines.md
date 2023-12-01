@@ -19,11 +19,21 @@
   * [lab-platform-eks-base](https://github.com/ThoughtWorks-DPS/lab-platform-eks-base)  
   	* [lab-platform-eks-ghactions](https://github.com/ThoughtWorks-DPS/lab-platform-eks-ghactions)  
   * [lab-platform-eks-core-services](https://github.com/ThoughtWorks-DPS/lab-platform-eks-core-services)  
-  * [lab-platform-servicemesh](https://github.com/ThoughtWorks-DPS/lab-platform-servicemesh)  
+  * [lab-platform-servicemesh](https://github.com/ThoughtWorks-DPS/lab-platform-servicemesh)
+ 
+_in progress refactor_  
+* build pipelines
+  * [psk-aws-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-aws-iam-profiles)
+  * [psk-aws-cis-foundations-benchmark](https://github.com/ThoughtWorks-DPS/psk-aws-cis-foundations-benchmark)
+  * [psk-aws-platform-wan](https://github.com/ThoughtWorks-DPS/psk-aws-platform-wan)
+  * [psk-aws-platform-vpc](https://github.com/ThoughtWorks-DPS/psk-aws-platform-vpc)
+  * [psk-aws-platform-eks-base](https://github.com/ThoughtWorks-DPS/psk-aws-platform-eks-base)
 
 #### 2.1.2 Google Cloud Platform
 
-(_pending_)
+* build pipelines
+  * [psk-gcp-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-gcp-iam-profiles)
+  * [psk-gcp-platform-vpc](https://github.com/ThoughtWorks-DPS/psk-gcp-platform-vpc)
 
 #### 2.1.3 Microsoft Azure Cloud Computing Services
 
