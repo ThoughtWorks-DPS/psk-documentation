@@ -30,6 +30,4 @@ The EMPC Platform Starter Kits provide the architectural guidelines and software
 
 ##### Lab Maintainers  
 
-[Team General Engineering Practices](./doc/psk_team_engineering_practices.md)  
-
-Internal developer guides and run-books for EMPC Platform Starter Kit lab environments are [here](https://github.com/ThoughtWorks-DPS/documentation-internal).      
+Internal developer documentation for EMPC Platform Starter Kit lab environments are [here](https://github.com/ThoughtWorks-DPS/documentation-internal).      
