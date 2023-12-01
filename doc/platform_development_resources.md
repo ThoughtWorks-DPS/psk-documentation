@@ -10,7 +10,10 @@
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
-#### 2.4.1 CircleCI executors and orbs
+#### 2.4.1 local setup  
+[local-platform-environment](https://github.com/ThoughtWorks-DPS/local-platform-environment)  
+
+#### 2.4.2 CircleCI executors and orbs
 
 _executors_  
 [circleci-remote-docker](https://github.com/ThoughtWorks-DPS/circleci-remote-docker)  
@@ -28,14 +31,14 @@ _orbs_
 [twdps/pipeline-events](https://github.com/ThoughtWorks-DPS/orb-pipeline-events)  
 [twdps/python-api](https://github.com/ThoughtWorks-DPS/orb-python-api) 
 
-#### 2.4.2 github runners and actions  
+#### 2.4.3 github runners and actions  
 
 _actions_  
 [terraform-action](https://github.com/ThoughtWorks-DPS/terraform-action)  
 [lab-runner-setup-action](https://github.com/ThoughtWorks-DPS/lab-runner-setup-action)  
 [psk-gcp-cloud-builders](https://github.com/ThoughtWorks-DPS/psk-gcp-cloud-builders)
 
-#### 2.4.3 pod configuration  
+#### 2.4.4 pod configuration  
 
 [certificate-init-container](https://github.com/ThoughtWorks-DPS/certificate-init-container)  
 [sidecar-mutatingwebhook-init-container](https://github.com/ThoughtWorks-DPS/sidecar-mutatingwebhook-init-container) 
