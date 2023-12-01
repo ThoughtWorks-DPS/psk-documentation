@@ -24,6 +24,7 @@
 * build pipelines _in progress refactor_  
   * [psk-aws-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-aws-iam-profiles)
   * [psk-aws-cis-foundations-benchmark](https://github.com/ThoughtWorks-DPS/psk-aws-cis-foundations-benchmark)
+  * [psk-platform-global-env-values](https://github.com/ThoughtWorks-DPS/psk-platform-global-env-values)
   * [psk-aws-platform-wan](https://github.com/ThoughtWorks-DPS/psk-aws-platform-wan)
   * [psk-aws-platform-vpc](https://github.com/ThoughtWorks-DPS/psk-aws-platform-vpc)
   * [pskctl-auth0-management](https://github.com/ThoughtWorks-DPS/pskctl-auth0-management)
