@@ -23,11 +23,12 @@ _executors_
 [circleci-kube-ops](https://github.com/ThoughtWorks-DPS/circleci-kube-ops)  
 
 _orbs_  
+[twdps/base-packages](https://github.com/ThoughtWorks-DPS/orb-base-packages)
 [twdps/orb-tools](https://github.com/ThoughtWorks-DPS/orb-tools)  
 [twdps/executor-tools](https://github.com/ThoughtWorks-DPS/orb-executor-tools)  
 [twdps/terraform](https://github.com/ThoughtWorks-DPS/orb-terraform)  
 [twdps/kube-ops](https://github.com/ThoughtWorks-DPS/orb-kube-ops)  
-[twdps/onepassword](https://github.com/ThoughtWorks-DPS/orb-onepassword)  
+[twdps/onepassword](https://github.com/ThoughtWorks-DPS/orb-1password-connect)  
 [twdps/pipeline-events](https://github.com/ThoughtWorks-DPS/orb-pipeline-events)  
 [twdps/python-api](https://github.com/ThoughtWorks-DPS/orb-python-api) 
 
