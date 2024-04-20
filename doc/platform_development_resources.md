@@ -21,6 +21,8 @@ _executors_
 [circleci-executor-builder](https://github.com/ThoughtWorks-DPS/circleci-executor-builder)  
 [circleci-infra-aws](https://github.com/ThoughtWorks-DPS/circleci-infra-aws)  
 [circleci-kube-ops](https://github.com/ThoughtWorks-DPS/circleci-kube-ops)  
+  
+[getting started with private runners](https://github.com/ThoughtWorks-DPS/experiment-circleci-private-runners)  
 
 _orbs_  
 [twdps/base-packages](https://github.com/ThoughtWorks-DPS/orb-base-packages)  

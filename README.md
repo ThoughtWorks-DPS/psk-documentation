@@ -1,6 +1,6 @@
 <div align="center">
 	<p>
-		<img alt="Thoughtworks Logo" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/thoughtworks_flamingo_wave.png?sanitize=true" width=400 />
+		<img alt="Thoughtworks Logo" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/thoughtworks_flamingo_wave.png?sanitize=true" width=350 />
     <br />
 		<img alt="DPS Title" src="https://raw.githubusercontent.com/ThoughtWorks-DPS/static/master/EMPCPlatformStarterKitsImage.png?sanitize=true" />
 	</p>
@@ -19,10 +19,10 @@ The EMPC Platform Starter Kits provide the architectural guidelines and software
 
 #### 2. Code 
 
-2.1 [Foundation Pipelines](./doc/platform_foundation_pipelines.md)  
-2.2 [Customer Onboarding and Management APIs](./doc/platform_apis.md)  
-2.3 [Platform Services](./doc/platform_services.md)  
-2.4 [Platform Development Resources](./doc/platform_development_resources.md)  
+2.1 [Platform Development Resources](./doc/platform_development_resources.md)  
+2.2 [Foundation Pipelines](./doc/platform_foundation_pipelines.md)  
+2.3 [Customer Onboarding and Management APIs](./doc/platform_apis.md)  
+2.4 [Platform Services](./doc/platform_services.md)  
 
 #### 3. The `Demo` Customer 
 
