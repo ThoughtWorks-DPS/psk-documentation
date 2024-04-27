@@ -10,7 +10,7 @@
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
-#### 1.1.1 Modern Engineering Platforms
+#### 1.1.1 Engineering Platforms
 
 The EMPC labs' OSS resources are related to building a modern engineering platform, consumed by internal customers, providing an independently useable, product experience. In the past we have also called these as Delivery Infrastructure products.  
 

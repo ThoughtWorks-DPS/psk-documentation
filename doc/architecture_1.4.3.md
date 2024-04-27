@@ -10,6 +10,4 @@
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
-
-
 [<kbd> <br> Back <br> </kbd>](architecture.md)
