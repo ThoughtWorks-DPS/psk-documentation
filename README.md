@@ -29,4 +29,4 @@ The EMPC Platform Starter Kits provide the architectural guidelines and software
 
 ##### Lab Maintainers  
 
-Internal developer documentation for EMPC Platform Starter Kit lab environments are [here](https://github.com/ThoughtWorks-DPS/documentation-internal).   
+Internal developer documentation for EMPC Platform Starter Kit lab environments are [here](https://github.com/ThoughtWorks-DPS/documentation-internal).  
