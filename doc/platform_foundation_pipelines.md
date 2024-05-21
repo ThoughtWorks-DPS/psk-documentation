@@ -22,7 +22,9 @@
   * [psk-aws-cis-foundations-benchmark](https://github.com/ThoughtWorks-DPS/psk-aws-cis-foundations-benchmark)
   * [psk-aws-platform-wan](https://github.com/ThoughtWorks-DPS/psk-aws-platform-wan)
   * [psk-aws-platform-vpc](https://github.com/ThoughtWorks-DPS/psk-aws-platform-vpc)
-  * [psk-aws-platform-eks-base](https://github.com/ThoughtWorks-DPS/psk-aws-platform-eks-base)
+  * [psk-aws-control-plane-base](https://github.com/ThoughtWorks-DPS/psk-aws-control-plane-base)
+  * [psk-aws-control-plane-core-services](https://github.com/ThoughtWorks-DPS/psk-aws-control-plane-core-services)
+  * [psk-aws-control-plane-extensions](https://github.com/ThoughtWorks-DPS/psk-aws-control-plane-extensions)
 
 * build pipelines _to be deprecated_
   * [lab-iam-profiles](https://github.com/ThoughtWorks-DPS/lab-iam-profiles)  
