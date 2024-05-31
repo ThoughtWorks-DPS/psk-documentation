@@ -10,6 +10,7 @@
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
+[Application Deployment Engineering Practices](doc/application_deployment_engineering_practices.md)
 #### 2.4.1 local setup  
 [local-platform-environment](https://github.com/ThoughtWorks-DPS/local-platform-environment)  
 
