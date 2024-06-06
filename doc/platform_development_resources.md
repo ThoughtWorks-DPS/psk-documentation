@@ -46,7 +46,6 @@ _actions_
 [base-packages-action](https://github.com/ThoughtWorks-DPS/base-packages-action)  
 [1password-action](https://github.com/ThoughtWorks-DPS/1password-action)  
 [terraform-action](https://github.com/ThoughtWorks-DPS/terraform-action)  
-[lab-runner-setup-action](https://github.com/ThoughtWorks-DPS/lab-runner-setup-action)  
 [psk-gcp-cloud-builders](https://github.com/ThoughtWorks-DPS/psk-gcp-cloud-builders)
 
 #### 2.4.4 pod configuration  
