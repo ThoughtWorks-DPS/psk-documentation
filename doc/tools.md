@@ -43,18 +43,17 @@ There are several different types of artifact stores used in the development of 
 
 **terraform state**  
 
-Most examples use [terraform cloud](https://www.terraform.io). Access to a quality SaaS terraform state backend addresses a key infrastructure bootstrap challenge for fully software-defined lifecycle management. e.g., you do not need to bootstrap a state store.  
+Examples use [terraform cloud](https://www.terraform.io). Access to a quality SaaS terraform state backend addresses a key infrastructure bootstrap challenge for fully software-defined lifecycle management. e.g., you do not need to bootstrap a state store.  
 
-Refer to vendor [documentation](https://www.terraform.io/docs/cloud/index.html) for detailed questions.  
+Refer to vendor [documentation](https://www.terraform.io/docs/cloud/index.html) for detailed questions. 
 
 **secrets management**
 
-You will see various secrets-management systems or tools used in the lab environments and working-code examples. Refer to the following documentation sources for detailed information on any particular use case.  
+You will see various secrets-management systems or tools used in the lab environments and working-code examples.  
 
-Most examples make use of `1password secrets automation`.  
+Most examples use `1Password` service accounts.  
 
 - [1password](https://1password.com/products/secrets/)
-- [chamber](https://github.com/segmentio/chamber) (aws parameter store)
 
 ### specific conventions
 
