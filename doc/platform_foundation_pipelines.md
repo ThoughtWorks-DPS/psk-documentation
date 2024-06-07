@@ -28,12 +28,6 @@
 
 * build pipelines _to be deprecated_
   * [lab-iam-profiles](https://github.com/ThoughtWorks-DPS/lab-iam-profiles)  
-  * [lab-platform-vpc](https://github.com/ThoughtWorks-DPS/lab-platform-vpc)  
-  * [lab-platform-hosted-zones](https://github.com/ThoughtWorks-DPS/lab-platform-hosted-zones)  
-  * [lab-platform-eks-base](https://github.com/ThoughtWorks-DPS/lab-platform-eks-base)  
-  	* [lab-platform-eks-ghactions](https://github.com/ThoughtWorks-DPS/lab-platform-eks-ghactions)  
-  * [lab-platform-eks-core-services](https://github.com/ThoughtWorks-DPS/lab-platform-eks-core-services)  
-  * [lab-platform-servicemesh](https://github.com/ThoughtWorks-DPS/lab-platform-servicemesh)
  
 #### 2.1.2 Google Cloud Platform
 
@@ -43,7 +37,8 @@
 
 #### 2.1.3 Microsoft Azure Cloud Computing Services
 
-(_pending_)  
+* build pipelines
+  * [psk-az-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-az-iam-profiles)
 
 <hr>  
 
