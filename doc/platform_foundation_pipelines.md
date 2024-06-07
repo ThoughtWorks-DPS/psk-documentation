@@ -16,7 +16,7 @@
   * [pskctl-auth0-management](https://github.com/ThoughtWorks-DPS/pskctl-auth0-management)  
   * [pskctl](https://github.com/ThoughtWorks-DPS/pskctl)  
 
-* build pipelines _in progress refactor_  
+* build pipelines  
   * [psk-platform-global-env-values](https://github.com/ThoughtWorks-DPS/psk-platform-global-env-values)
   * [psk-aws-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-aws-iam-profiles)
   * [psk-aws-cis-foundations-benchmark](https://github.com/ThoughtWorks-DPS/psk-aws-cis-foundations-benchmark)
