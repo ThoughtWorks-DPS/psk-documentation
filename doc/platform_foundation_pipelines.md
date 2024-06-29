@@ -17,7 +17,7 @@
   * [pskctl](https://github.com/ThoughtWorks-DPS/pskctl)  
 
 * build pipelines  
-  * [psk-platform-global-env-values](https://github.com/ThoughtWorks-DPS/psk-platform-global-env-values)
+  * [psk-platform-global-env-values](https://github.com/ThoughtWorks-DPS/psk-platform-global-env-values) _for scaled_
   * [psk-aws-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-aws-iam-profiles)
   * [psk-aws-cis-foundations-benchmark](https://github.com/ThoughtWorks-DPS/psk-aws-cis-foundations-benchmark) _pending_
   * [psk-aws-platform-wan](https://github.com/ThoughtWorks-DPS/psk-aws-platform-wan) _reference_
