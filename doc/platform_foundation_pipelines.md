@@ -21,6 +21,7 @@
   * [psk-aws-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-aws-iam-profiles)
   * [psk-aws-cis-foundations-benchmark](https://github.com/ThoughtWorks-DPS/psk-aws-cis-foundations-benchmark) _pending_
   * [psk-aws-platform-wan](https://github.com/ThoughtWorks-DPS/psk-aws-platform-wan) _reference_
+  * [psk-aws-platform-hosted-zones](https://github.com/ThoughtWorks-DPS/psk-aws-platform-hosted-zones)  
   * [psk-aws-platform-vpc](https://github.com/ThoughtWorks-DPS/psk-aws-platform-vpc)
   * [psk-aws-control-plane-base](https://github.com/ThoughtWorks-DPS/psk-aws-control-plane-base)
   * [psk-aws-control-plane-services](https://github.com/ThoughtWorks-DPS/psk-aws-control-plane-services)
