@@ -13,7 +13,7 @@
 #### 2.1.1 Amazon Web Services
 
 * platform authn and authz 
-  * [pskctl-auth0-management](https://github.com/ThoughtWorks-DPS/pskctl-auth0-management)  
+  * [pskctl-auth0-management](https://github.com/ThoughtWorks-DPS/pskctl-auth0-managment)  
   * [pskctl](https://github.com/ThoughtWorks-DPS/pskctl)  
 
 * build pipelines  
