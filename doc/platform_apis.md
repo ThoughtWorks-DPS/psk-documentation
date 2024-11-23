@@ -10,16 +10,6 @@
 
 ![bootstrap](https://img.shields.io/badge/document-EarlyDraft-yellow.svg?style=for-the-badge&logo=markdown)  
 
-### 2.2.1 Platform Tenant Configuration APIs  
-
-2.2.1.1 [teams](https://github.com/ThoughtWorks-DPS/lab-api-teams) (_pending_)  
-2.2.1.2 integrations (_pending_)  
-2.2.1.2 [starterkits](https://github.com/ThoughtWorks-DPS/lab-api-starterkits) (_pending_)  
-
-### 2.2.2 Kubernetes API Extensions (Operators)  
-
-2.2.2.1 [opa-slp-operator](https://github.com/ThoughtWorks-DPS/opa-slp-operator)  
-
 <hr>  
 
 [<kbd> <br> Home <br> </kbd>](../README.md)

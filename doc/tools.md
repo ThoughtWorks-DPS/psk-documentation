@@ -39,7 +39,7 @@ Suitability to IaC lifecycle and a domain-bounded implementation is a prerequisi
 
 #### 1.3.2.1 Artifact stores
 
-There are several different types of artifact stores used in the development of a Delivery (or engineering) platform.  
+There are several different types of artifact stores used in the development of a Engineering platform.  
 
 **terraform state**  
 
@@ -51,7 +51,7 @@ Refer to vendor [documentation](https://www.terraform.io/docs/cloud/index.html) 
 
 You will see various secrets-management systems or tools used in the lab environments and working-code examples. Refer to the following documentation sources for detailed information on any particular use case.  
 
-Most examples make use of `1password secrets automation`.  
+Most examples make use of `1password`.  
 
 - [1password](https://1password.com/products/secrets/)
 - [chamber](https://github.com/segmentio/chamber) (aws parameter store)
@@ -72,9 +72,9 @@ _example with 1password and CircleCI_
 
 A CircleCI `context` is defined that coincides with a GitHub team. All CircleCI pipelines reference the context.
 
-The only CircleCI ENV var defined within the context is the OP_CONNECT_URL and OP_CONNECT_TOKEN for the lab 1password vault.  
+The only CircleCI ENV var defined within the context is OP_SERVICE_ACCOUNT_TOKEN for the psk 1password vault.  
 
-Now, at the start of any pipeline run, you can inject the credentials for all other pipeline activities or uses of secure config as needed.  
+At the start of any pipeline run, inject the credentials for all other pipeline activities or uses of secure config as needed.  
 
 **pipelines**
 

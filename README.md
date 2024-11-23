@@ -7,14 +7,13 @@
 </div>
 <br />
 
-The EMPC Platform Starter Kits provide the architectural guidelines and software building blocks for delivering a modern Engineering Platform inside the Enterprise, providing a self-serve, product experience to software development teams (the internal customers).  
+The EMPC Platform Starter Kits demonstrate the software building blocks for delivering a modern Engineering Platform inside the Enterprise, providing a self-serve, product experience to software development teams (the internal customers).  
 
 #### 1. Introduction   
 
 1.1 [Concepts](./doc/concepts.md)  
-1.2 [Architecture](./doc/architecture.md)  
-1.3 [Identity and Authorization](./doc/identity.md)  
-1.4 [A Note on Tools](./doc/tools.md)  
+1.2 [Identity and Authorization](./doc/identity.md)  
+1.3 [A Note on Tools](./doc/tools.md)  
 
 #### 2. Code 
 
@@ -27,6 +26,6 @@ The EMPC Platform Starter Kits provide the architectural guidelines and software
 
 (_pending_)   
 
-##### Lab Maintainers  
+##### PSK Maintainers  
 
 Internal developer documentation for EMPC Platform Starter Kit lab environments are [here](https://github.com/ThoughtWorks-DPS/documentation-internal).  
