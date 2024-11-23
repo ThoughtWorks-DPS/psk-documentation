@@ -13,14 +13,15 @@
 #### 2.1.1 Amazon Web Services
 
 * platform authn and authz 
-  * [pskctl-auth0-management](https://github.com/ThoughtWorks-DPS/pskctl-auth0-management)  
+  * [pskctl-auth0-management](https://github.com/ThoughtWorks-DPS/pskctl-auth0-managment)  
   * [pskctl](https://github.com/ThoughtWorks-DPS/pskctl)  
 
 * build pipelines  
-  * [psk-platform-global-env-values](https://github.com/ThoughtWorks-DPS/psk-platform-global-env-values)
+  * [psk-platform-global-env-values](https://github.com/ThoughtWorks-DPS/psk-platform-global-env-values) _for scaled_
   * [psk-aws-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-aws-iam-profiles)
-  * [psk-aws-cis-foundations-benchmark](https://github.com/ThoughtWorks-DPS/psk-aws-cis-foundations-benchmark)
-  * [psk-aws-platform-wan](https://github.com/ThoughtWorks-DPS/psk-aws-platform-wan)
+  * [psk-aws-cis-foundations-benchmark](https://github.com/ThoughtWorks-DPS/psk-aws-cis-foundations-benchmark) _pending_
+  * [psk-aws-platform-wan](https://github.com/ThoughtWorks-DPS/psk-aws-platform-wan) _reference_
+  * [psk-aws-platform-hosted-zones](https://github.com/ThoughtWorks-DPS/psk-aws-platform-hosted-zones)  
   * [psk-aws-platform-vpc](https://github.com/ThoughtWorks-DPS/psk-aws-platform-vpc)
   * [psk-aws-control-plane-base](https://github.com/ThoughtWorks-DPS/psk-aws-control-plane-base)
   * [psk-aws-control-plane-services](https://github.com/ThoughtWorks-DPS/psk-aws-control-plane-services)
@@ -33,6 +34,9 @@
 #### 2.1.3 Microsoft Azure Cloud Computing Services
 
 (_pending_)  
+
+* build pipelines
+  * [psk-az-iam-profiles](https://github.com/ThoughtWorks-DPS/psk-az-iam-profiles)
 
 <hr>  
 
