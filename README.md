@@ -7,7 +7,7 @@
 </div>
 <br />
 
-The EMPC Platform Starter Kits demonstrate the software building blocks for delivering a modern Engineering Platform inside the Enterprise, providing a self-serve, product experience to software development teams (the internal customers).  
+The EMPC Platform Starter Kits demonstrate the software building blocks for delivering a modern Engineering Platform inside the Enterprise, providing a self-serve, product experience to software development teams (the internal customers).   
 
 #### 1. Introduction   
 
